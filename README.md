@@ -1,27 +1,7 @@
 # 要妳命三千Xposed模組
 
-..
-
-## Informations
-
-### Module name *
-
-要妳命三千Xposed模組
-
-### Package *
-
-cn.kwaiching.hook
-
-
-### Summary
-
-Contents in [SUMMARY](SUMMARY) file.
-
-
-### Description *
-
-功能:
-Functions:
+## 功能:
+## Functions:
 
 	- Telegram: 防撤回; 防閱後即焚; 移除複製限制
 	- Telegram: Anti Revoke; Anti Self-Destructing; Remove Copy Restriction
@@ -71,8 +51,8 @@ Functions:
 	- Snacky Taka Tak: 無水印下載,地區自定義
 	- Snacky Taka Tak: Download video without watermark
 
-支持版本:
-Support Version(s):
+## 支持版本:
+## Support Version(s):
 
 	- 抖音(Aweme): V2.7.0 || V2.8.0 || V2.9.0 || V3.0.0 || V3.1.0 || V3.2.0 || V3.2.1 || V3.3.0 || V3.4.0 || V3.5.0 || V3.6.0 || V3.7.0 || V3.8.0 || V3.9.0 || V4.0.0 || V4.2.0 || V4.2.1 || V4.3.0 || V4.3.1 || V4.3.2 || V4.3.3 || V5.0.0 || V5.1.0 || V5.1.1 || V5.2.0 || 5.3.0 || V5.5.0 || V5.5.1 || V5.7.0 || V5.8.0 || V5.9.0 || V6.0.0 || V6.1.0 || V6.2.0 || V6.3.0 || V6.5.0 || V6.6.0 || V6.7.0 || V6.8.0 || V6.9.0 || V7.0.0 || V7.0.1 || V7.1.0 || V7.2.0 || V7.2.1 || V7.3.0 || V7.4.0 || V7.5.0 || V7.7.0 || V7.8.0 || V7.9.0 || V8.0.0 || V8.1.0 || V8.1.1 || V8.2.0 || V8.3.0 || V8.4.0 || V8.5.0 || V8.6.0 || V8.7.0 || V8.8.0 || V9.0.0 || V9.1.0 || V9.1.1 || V9.2.0 || V9.4.0 || V9.5.0 || V9.6.0 || V9.7.0 || V9.7.2 || V9.8.1 || V9.9.0 || V10.0.0 || V10.1.0 || V10.2.0 || V10.4.0 || V10.5.0 || V10.6.0 || V10.7.0 || V10.8.0 || V10.9.0 || V11.0.0 || V11.1.0 || V11.2.0 || V11.3.0 || V11.5.0 || V11.5.1 || V11.6.0 || V11.8.0 || V11.9.0 || V12.0.0 || V12.1.0 || V12.2.0 || V12.3.0 || V12.4.0 || V12.5.0 || V12.6.0 || V12.7.0 || V12.8.0 || V12.9.0 || V13.0.0 || V13.1.0 || V13.2.0 || V13.4.0 || V13.5.0 || V13.6.0 || V13.7.0 || V13.8.0 || V13.9.0 || V14.0.0 || V14.1.0 || V14.3.0 || V14.4.0 || V14.5.1 || V14.6.0 || V14.6.1 || V14.6.2 || V14.7.0 || V14.7.1 || V14.8.0 || V14.9.0 || V15.0.0 || V15.1.0 || V15.1.1 || V15.2.0 || V15.3.0 || V15.4.0 || V15.5.0 || V15.6.0 || V15.7.0 || V15.8.0 || V15.9.0 || V16.0.0 || V16.0.1 || V16.1.0 || V16.2.0 || V16.3.0 || V16.5.0 || V16.5.1 || V16.6.0 || V16.7.0 || V16.8.0 || V16.9.0 || V16.9.1 || V17.0.0 || V17.1.0 || V17.2.0 || V17.3.0 || V17.4.0 || V17.5.0 || V17.6.0 || V17.7.0 || V17.8.0 || V17.9.0 || V18.1.0 || V18.2.0 || V18.3.0 || V18.4.0 || V18.5.0 || V18.6.0 || V18.7.0 || V18.8.0 || V18.9.0 || V19.0.0 || V19.1.0 || V19.2.0 || V19.3.0 || V19.4.0 || V19.4.2
 	[僅支持上述版本]
@@ -148,8 +128,8 @@ Support Version(s):
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-支持版本下載鏈接:
-Some supported version of official APP:
+## 支持版本下載鏈接:
+## Some supported version of official APP:
 
 	-貴族網盤:
 	https://kwaiching.dudujb.com
@@ -162,7 +142,7 @@ Some supported version of official APP:
 	-星耀雲盤:
 	http://www.starsdisk.com/space_kwaiching.html
 
-要妳命三千Xposed(3000Xposed):
+## 要妳命三千Xposed(3000Xposed):
 
 	-貴族網盤:
 	https://kwaiching.dudujb.com/folder_7719.html
@@ -174,26 +154,7 @@ Some supported version of official APP:
 	-星耀雲盤:
 	http://www.starsdisk.com/space_kwaiching_1059.html
 
-### Support/Discussion URL *
-
-https://jq.qq.com/?_wv=1027&k=53cB0LD
-
-### Source code URL
-
-Contents in [SOURCE_URL](SOURCE_URL) file, any line breaks (\r & \n) will disappear.
-
-### Additional authors
-
-Json in [ADDITIONAL_AUTHORS](ADDITIONAL_AUTHORS) file.
-
-
-### Visibility
-
-create a [HIDE](HIDE) file.
-
 ## Versions
-
-We use GitHub releases as a version update.
 
 ### Version name *
 
@@ -224,6 +185,4 @@ Stable (low risk of bugs)
 星耀雲盤
 	http://www.starsdisk.com/space_kwaiching.html
 
-## Module Activation Scope
 
-Json array in [SCOPE](SCOPE) file.
