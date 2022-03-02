@@ -110,7 +110,11 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- Telegram: V8.5.4 || V8.5.3 || V8.5.2 || V8.5.1 || V8.5.0 || V8.4.4 || V8.4.3 || V8.4.2 || V8.4.1 || V8.4.0 || V8.3.2 || V8.3.1 || V8.3.0 || V8.2.7
+	- Telegram(GooglePlay): V8.5.4 || V8.5.3 || V8.5.2 || V8.5.1 || V8.5.0 || V8.4.4 || V8.4.3 || V8.4.2 || V8.4.1 || V8.4.0 || V8.3.2 || V8.3.1 || V8.3.0 || V8.2.7
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- Telegram(Official): V8.5.4
 	[僅支持上述版本]
 	(Only these versions Supported)
 
