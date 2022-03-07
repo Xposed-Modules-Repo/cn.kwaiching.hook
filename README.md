@@ -44,10 +44,10 @@
 	- 一加5T/7Pro氧OS: 添加通話錄音功能, 去除多開限制, Wi-Fi密碼顯示, 自定义相机编码
 	- Add Call Recording, remove limitation for Parallel Apps, show Wi-Fi password and customize camera codec for One Plus 5T/7Pro OxygenOS
 
-	- MX Taka Tak: 無水印下載,地區自定義
+	- MX Taka Tak: 無水印下載
 	- MX Taka Tak: Download video without watermark
 
-	- Snacky Taka Tak: 無水印下載,地區自定義
+	- Snacky Taka Tak: 無水印下載
 	- Snacky Taka Tak: Download video without watermark
 
 ## 支持版本: / Support Version(s):
@@ -73,6 +73,10 @@
 	(Only these versions Supported)
 
 	- Tik Tok Lite: V3.8.1
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- Tik Tok TV: V1.3.0
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -166,3 +170,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+	
