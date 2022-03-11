@@ -47,8 +47,8 @@
 	- MX Taka Tak: 無水印下載
 	- MX Taka Tak: Download video without watermark
 
-	- Snacky Taka Tak: 無水印下載
-	- Snacky Taka Tak: Download video without watermark
+	- Snacky Taka Tak(MX Taka Tak Lite): 無水印下載
+	- Snacky Taka Tak(MX Taka Tak Lite): Download video without watermark
 
 ## 支持版本: / Support Version(s):
 
@@ -126,11 +126,11 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- MX Taka Tak: V1.15.15 || V1.15.13 || V1.15.12 || V1.13.11 || V1.13.10 || V1.13.9 || V1.13.8 || V1.12.11 || V1.11.12 || V1.10.10 || V1.10.9 || V1.10.8 || V1.10.7 || V1.10.6
+	- MX Taka Tak: V1.16.14 || V1.16.13 || V1.15.17 || V1.15.16 || V1.15.15 || V1.15.13 || V1.15.12 || V1.13.11 || V1.13.10 || V1.13.9 || V1.13.8 || V1.12.11 || V1.11.12 || V1.10.10 || V1.10.9 || V1.10.8 || V1.10.7 || V1.10.6
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- Snacky Taka Tak: V1.2.2
+	- Snacky Taka Tak(MX Taka Tak Lite): V1.3.0 || V1.2.2 || V1.2.2 || V1.2.1 || V1.2.0 || V1.1.0
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -146,7 +146,6 @@
 	-城通網盤:
 	https://u062.com/d/16731109-40183208-4b8931
 	[访问密码：9214]
-
 
 	-星耀雲盤:
 	http://www.starsdisk.com/space_kwaiching.html
@@ -167,7 +166,7 @@
 
 	- Discord: https://discord.gg/qrg5yRuEU8
 
-	- QQ群(QQ Group): 244370614, 445143736, 62175adb shell1638
+	- QQ群(QQ Group): 244370614, 445143736, 621751638
 
 	- Telegram Group: https://t.me/kwaichingxposed
 
