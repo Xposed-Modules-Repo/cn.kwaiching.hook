@@ -23,6 +23,9 @@
 	- 快手: 無水印下載任意視頻
 	- Kwai(Chinese Version): Download video without watermark and any content could be downloaded without limitation
 
+	- 快手谷歌版: 無水印下載
+	- Kwai: Download video without watermark
+
 	- 快手極速版: 無水印下載
 	- Kwai Lite: Download video without watermark
 
@@ -52,6 +55,12 @@
 
 	- Snacky Taka Tak(MX Taka Tak Lite): 無水印下載
 	- Snacky Taka Tak(MX Taka Tak Lite): Download video without watermark
+
+	- Likee: 無水印下載
+	- Likee: Download video without watermark
+
+	- Likee Lite: 無水印下載
+	- Likee Lite: Download video without watermark
 
 ## 支持版本: / Support Version(s):
 
@@ -103,7 +112,11 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 快手國際版(Kwai[Google Play]): V5.4.1.511140 || V5.3.3.511120 || V5.3.1.511097 || V5.3.0.511083 || V5.2.1.511054 || V5.2.1.511053 || V5.2.0.511042 || V5.2.0.511041 || V5.1.1.511035 || V5.1.1.511033 || V5.1.0.511023 || V5.0.3.511017 || V5.0.3.511016 || V5.0.3.511013 || V5.0.3.511012 || V5.0.2.511007 || V5.0.2.511006 || V5.0.0.510994 || V3.6.3.510985 || V3.6.3.510984 || V2.3.0.509305
+	- 快手國際版(Kwai): V5.4.1.511140 || V5.3.3.511120 || V5.3.1.511097 || V5.3.0.511083 || V5.2.1.511054 || V5.2.1.511053 || V5.2.0.511042 || V5.2.0.511041 || V5.1.1.511035 || V5.1.1.511033 || V5.1.0.511023 || V5.0.3.511017 || V5.0.3.511016 || V5.0.3.511013 || V5.0.3.511012 || V5.0.2.511007 || V5.0.2.511006 || V5.0.0.510994 || V3.6.3.510985 || V3.6.3.510984 || V2.3.0.509305
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 快手谷歌版(Kwai): V5.7.30.522407
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -145,6 +158,14 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- Likee: V3.85.6
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- Likee Lite: V3.7.4
+	[僅支持上述版本]
+	(Only these versions Supported)
+
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
 	-城通網盤:
@@ -174,4 +195,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
