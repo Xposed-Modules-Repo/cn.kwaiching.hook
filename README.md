@@ -166,6 +166,14 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 微視(CN); 版本: V8.1.0.588 || V8.0.6.588 || V8.0.5.588 || V8.0.4.588 || V7.0.5.590 || V7.0.4.590 || V7.0.3.589 || V7.0.2.589 || 7.0.1.591 || V7.0.0.588 || V6.9.6.592 || V6.9.5.591 || V6.9.0.588 || V6.8.5.591
+	[僅支持上述版本]
+	(Only these versions Supported)
+
+	- 微視(Google Play); 版本: V4.8.4.26
+	[僅支持上述版本]
+	(Only these versions Supported)
+
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
 	-城通網盤:
