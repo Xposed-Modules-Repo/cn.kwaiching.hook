@@ -198,7 +198,8 @@
 	[密碼: 9214]
 
 	-星耀雲盤:
-	http://www.xingyaopan.com/space_kwaiching_1059.html
+	http://www.xingyaopan.com/space_kwaiching_1059.html [空間已滿]
+	http://www.xingyaopan.com/space_3000xposed_3839.html
 
 ## 聯絡先: / Contacts:
 
