@@ -145,11 +145,11 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- Telegram(GooglePlay): V8.7.4 || V8.7.2 || V8.7.1 || V8.7.0 || V8.6.2 || V8.6.1 || V8.6.0 || V8.5.4 || V8.5.3 || V8.5.2 || V8.5.1 || V8.5.0 || V8.4.4 || V8.4.3 || V8.4.2 || V8.4.1 || V8.4.0 || V8.3.2 || V8.3.1 || V8.3.0 || V8.2.7
+	- Telegram(GooglePlay): V8.8.6 || V8.8.5 || V8.8.4 || V8.8.3 || V8.8.2 || V8.8.1 || V8.8.0 || V8.7.4 || V8.7.2 || V8.7.1 || V8.7.0 || V8.6.2 || V8.6.1 || V8.6.0 || V8.5.4 || V8.5.3 || V8.5.2 || V8.5.1 || V8.5.0 || V8.4.4 || V8.4.3 || V8.4.2 || V8.4.1 || V8.4.0 || V8.3.2 || V8.3.1 || V8.3.0 || V8.2.7
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- Telegram(Official): V8.7.4 || V8.7.2 || V8.7.1 || V8.7.0 || V8.6.2 || V8.6.1 || V8.6.0 || V8.5.4
+	- Telegram(Official): V8.8.5 || V8.7.4 || V8.7.2 || V8.7.1 || V8.7.0 || V8.6.2 || V8.6.1 || V8.6.0 || V8.5.4
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -188,7 +188,8 @@
 	[访问密码：9214]
 
 	-星耀雲盤:
-	http://www.xingyaopan.com/space_kwaiching.html
+	http://www.xingyaopan.com/space_kwaiching.html [空間已滿]
+	http://www.xingyaopan.com/space_3000xposed.html
 
 ## 要妳命三千Xposed(3000Xposed):
 
@@ -210,3 +211,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
