@@ -1,4 +1,4 @@
-# 要妳命三千Xposed模組
+ 要妳命三千Xposed模組
 
 ## 功能: / Functions:
 
@@ -47,8 +47,8 @@
 	- 微信谷歌版: 強制開啟暗色模式
 	- Enforce dark theme for WeChat(Google Play)
 
-	- 一加5T/7Pro/8Pro氧OS: 添加通話錄音功能, 去除多開限制, Wi-Fi密碼顯示, 自定义相机编码, 恢復秋意相機
-	- Add Call Recording, remove limitation for Parallel Apps, show Wi-Fi password, customize camera codec and InfraRed Camera for One Plus 5T/7Pro/8Pro OxygenOS
+	- 一加5T/7Pro/8Pro氧OS: 添加通話錄音功能, 去除多開限制, Wi-Fi密碼顯示, 自定义相机编码, 恢復秋意相機, 開啓會員卡/公交卡/門禁卡
+	- Add Call Recording, remove limitation for Parallel Apps, show Wi-Fi password, customize camera codec, Membership Card / Entrance Card / Bus card and InfraRed Camera for One Plus 5T/7Pro/8Pro OxygenOS
 
 	- MX Taka Tak: 無水印下載
 	- MX Taka Tak: Download video without watermark
@@ -213,4 +213,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
