@@ -137,7 +137,7 @@
 
 	- Tumblr: Any
 
-	- 皮皮搞笑(NeiHanDuanZi): V2.3.4 || V2.1.4.7 || V1.8.6 || V1.8.3 || V1.6.4
+	- 皮皮搞笑(NeiHanDuanZi): V2.29.0 || V2.3.4 || V2.1.4.7 || V1.8.6 || V1.8.3 || V1.6.4
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -214,3 +214,24 @@
 
 	- Instagram/Tumblr: kwaiching
 
+
+
+
+### Changes
+
+3000Xposed_V22.10.04
+
+0x00. 由於大量用戶反饋貴族網盤過於垃圾; 暫停使用貴族網盤; 請移步其他網盤
+0x00. Due to too many users' feedback, the quality of Guizu disk is too junk; Suspend the use of this network disk; Please use another disk instead
+
+0x01. 適配 皮皮搞笑; 優化評論下載及圖片批量下載, 添加優先下載H265功能(不打開去水印有可能失敗); 版本: V2.29.0
+0x01. Fix bugs for NeiHanDuanZi: V2.29.0
+
+
+城通網盤
+	https://u062.com/d/16731109-40183208-4b8931
+	[访问密码：9214]
+
+星耀雲盤
+	http://www.xingyaopan.com/space_kwaiching.html [空間已滿]
+	http://www.xingyaopan.com/space_3000xposed.html [無法上傳]
