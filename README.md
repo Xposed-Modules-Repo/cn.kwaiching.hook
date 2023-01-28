@@ -140,7 +140,7 @@
 
 	- Tumblr: Any
 
-	- 皮皮搞笑(NeiHanDuanZi): V2.29.0 || V2.3.4 || V2.1.4.7 || V1.8.6 || V1.8.3 || V1.6.4
+	- 皮皮搞笑(NeiHanDuanZi): V2.31.0 || V2.29.0 || V2.3.4 || V2.1.4.7 || V1.8.6 || V1.8.3 || V1.6.4
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -217,3 +217,6 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
+
+
