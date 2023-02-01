@@ -47,6 +47,9 @@
 	- 皮皮蝦: 去除廣告, 水印
 	- Download video without watermark, Remove ADS for SuperB
 
+	- 最右: 去除廣告, 水印
+	- Download video without watermark, Remove ADS for ZuiYou
+
 	- 微信谷歌版: 強制開啟暗色模式
 	- Enforce dark theme for WeChat(Google Play)
 
@@ -148,6 +151,10 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 最右: V5.11.0
+	[僅支持上述版本]
+	(Only these versions Supported)
+
 	- 微信谷歌版(WeChat): V7.0.16 || V7.0.15 || V7.0.13 || V7.0.12 || V7.0.10
 	[僅支持上述版本]
 	(Only these versions Supported)
@@ -217,6 +224,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
-
 
