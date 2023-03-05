@@ -147,7 +147,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 皮皮蝦: V4.2.2
+	- 皮皮蝦: V4.2.5 || V4.2.2
 	[僅支持上述版本]
 	(Only these versions Supported)
 
