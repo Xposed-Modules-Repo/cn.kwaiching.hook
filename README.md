@@ -137,7 +137,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 小草(T66Y APP): V2.2 || V2.2.1 || V2.2.2 || V2.2.3 || V2.2.4 || V2.2.5 || V2.2.6
+	- 小草(T66Y APP): V2.2 || V2.2.1 || V2.2.2 || V2.2.3 || V2.2.4 || V2.2.5 || V2.2.6 || V2.2.7
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -224,5 +224,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
 
