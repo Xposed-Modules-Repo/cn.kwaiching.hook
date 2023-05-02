@@ -1,4 +1,4 @@
-命三千Xposed模組
+# 要妳命三千Xposed模組
 
 ## 功能: / Functions:
 
@@ -109,7 +109,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- Tik Tok 成人版: V1.0.3
+	- Tik Tok 成人版: V1.0.4 || V1.0.3
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -228,4 +228,5 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
+
 
