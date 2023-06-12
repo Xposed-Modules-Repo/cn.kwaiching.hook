@@ -71,6 +71,9 @@
 	- SnackVideo: 無水印下載
 	- SnackVideo: Download video without watermark
 
+	- 淘寶: 下載評論視頻; 圖片
+	- TaoBao: Download rate video and pictures
+
 ## 支持版本: / Support Version(s):
 
 	- 抖音谷歌版(Aweme Google Play): V16.4.9 || V16.4.8 || V16.4.7
@@ -195,6 +198,9 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 淘寶: V10.16.10
+	[僅支持上述版本]
+	(Only these versions Supported)
 
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
