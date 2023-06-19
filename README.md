@@ -74,6 +74,8 @@
 	- 淘寶: 下載評論視頻; 圖片
 	- TaoBao: Download rate video and pictures
 
+	-支付寶(AliPay):
+
 ## 支持版本: / Support Version(s):
 
 	- 抖音谷歌版(Aweme Google Play): V16.4.9 || V16.4.8 || V16.4.7
@@ -202,6 +204,10 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
+	- 支付寶: V10.3.36.7200
+	[僅支持上述版本]
+	(Only these versions Supported)
+
 ## 支持版本下載鏈接: / Some supported version of official APP:
 
 	-城通網盤:
@@ -234,5 +240,4 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
 
