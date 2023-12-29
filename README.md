@@ -200,7 +200,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 淘寶: V10.16.10
+	- 淘寶: V10.17.0.20 || V10.17.0.13 || V10.16.10
 	[僅支持上述版本]
 	(Only these versions Supported)
 
