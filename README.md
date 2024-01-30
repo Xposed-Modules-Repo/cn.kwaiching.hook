@@ -200,7 +200,7 @@
 	[僅支持上述版本]
 	(Only these versions Supported)
 
-	- 淘寶: V10.26.10 || V10.26.0 || V10.17.0.20 || V10.17.0.13 || V10.16.10
+	- 淘寶: V10.28.20 || V10.28.10 || V10.28.5 || V10.27.40 || V10.27.30 || V10.27.20 || V10.27.10 || V10.27.5 || V10.27.0 || V10.26.40 || V10.26.27 || V10.26.25 || V10.26.10 || V10.26.0 || V10.17.0.20 || V10.17.0.13 || V10.16.10
 	[僅支持上述版本]
 	(Only these versions Supported)
 
@@ -240,5 +240,3 @@
 	- Facebook/Twitter: Heung Kwai Ching
 
 	- Instagram/Tumblr: kwaiching
-
-
